@@ -1,0 +1,12 @@
+[
+    {
+        "optionid":"exmaple-option-1 (Should exist in options.json)",
+        "channel":"(Discord channel ID)",
+        "mode":"mirror OR redirect"
+    },
+    {
+        "optionid":"exmaple-option-2",
+        "channel":"(Discord channel ID)",
+        "mode":"mirror OR redirect"
+    }
+]

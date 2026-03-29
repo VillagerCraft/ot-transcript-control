@@ -1,0 +1,25 @@
+{
+    "name":"Transcript Control",
+    "id":"ot-transcript-control",
+    "version":"0.1.0",
+    "startFile":"index.ts",
+    "supportedVersions":["OTv4.0.x","OTv4.1.x","OTv4.2.x"],
+
+    "enabled":true,
+    "priority":0,
+    "events":[],
+
+    "npmDependencies":[],
+    "requiredPlugins":[],
+    "incompatiblePlugins":[],
+
+    "details":{
+        "author":"kampert.it",
+        "contributors":[],
+        "shortDescription":"A configurable transcript router.",
+        "longDescription":"Route transcripts per ticket type to a channel of your choice.",
+        "imageUrl":"",
+        "projectUrl":"",
+        "tags":["transcript","logs","channel"]
+    }
+}
